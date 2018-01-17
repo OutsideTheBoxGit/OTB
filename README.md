@@ -1,2 +1,2 @@
-# OTB
-OutsideTheBox Issues and Requests
+# OutsideTheBox
+Issues and Requests
